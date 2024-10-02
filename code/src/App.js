@@ -1,8 +1,11 @@
 import React from 'react'
-
+import PathVisualizer from './PathVisualizer/PathVisualizer'
+import './index.css'
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <PathVisualizer />
+    </>
   )
 }
 
