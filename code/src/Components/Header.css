@@ -7,7 +7,7 @@
 .visited {
     width: 20px;
     height: 20px;
-    background-color: #fbc3bc;
+    background-color: #ffd2d2;
     outline: 1px solid rgb(61, 57, 57);
   }
   
@@ -21,7 +21,7 @@
   .path {
     width: 20px;
     height: 20px;
-    background-color: rgb(255, 254, 106);
+    background-color: #e5ffe1;
     outline: 1px solid rgb(61, 57, 57);
   }
   
