@@ -25,13 +25,13 @@ const InfoBox = () => {
                         You can create <b>Walls</b> by Left-Clicking in the Grid.
                     </li>
                     <li>
-                       By Clicking on <b>Visualize BFS</b> button you can visualize the Breadth First Search Algorithm. 
+                       By Clicking on <b>Visualize Breadth First Search</b> button you can visualize the BFS Algorithm. 
                        It is an algorithm used for traversing or searching tree or graph data structures, exploring all neighbor nodes 
                        at the present depth before moving on to nodes at the next depth level. It employs a queue to keep track of the nodes to be explored, 
                        ensuring that the shortest path in an unweighted graph is found.
                     </li>
                     <li>
-                       By Clicking the <b>Visualize DFS</b> button you can visualize the Depth First Search Algorithm. 
+                       By Clicking the <b>Visualize Depth First Search</b> button you can visualize the DFS Algorithm. 
                        DFS is a graph traversal algorithm that explores as far along a branch as possible before backtracking, 
                        which can be implemented using a stack (either explicitly or via recursion). 
                        This approach is particularly useful for exploring paths and generating maze-like structures, 
