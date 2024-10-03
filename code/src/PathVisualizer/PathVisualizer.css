@@ -1,0 +1,12 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+  }
+.grid {
+    margin: 60px 170px;
+    width: 1251px;
+  }
+  
+.grid-row {
+    height: 25px;
+}
